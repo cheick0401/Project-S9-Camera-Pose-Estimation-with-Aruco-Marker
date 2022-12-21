@@ -19,3 +19,10 @@ There are all the chessboard used for calibration, the virtual image for AR and 
 
 Outputs
 There are all the outputs after running all the different process (aruco detection, calibration, pose estimation and AR).
+
+References
+https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#:~:text=OpenCV%3A%20Detection%20of%20ArUco%20Markers&text=Pose%20estimation%20is%20of%20great,and%20their%202d%20image%20projection.
+https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html
+https://github.com/njanirudh/Aruco_Tracker
+https://github.com/niconielsen32/ComputerVision
